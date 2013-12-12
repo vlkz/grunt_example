@@ -2,6 +2,10 @@
 
 html {
 	body {
-		background-color: green;
+		background-color: #111113;
+		border-radius: 1px;
+		a {
+		  width: calc(50% - 2em);
+		}
 	}
 }

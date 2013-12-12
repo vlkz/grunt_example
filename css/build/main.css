@@ -1,1 +1,13 @@
-html body{color:blue}html body{background-color:green}
+html body {
+  color: #212343;
+}
+
+html body {
+  background-color: #111113;
+  border-radius: 1px;
+}
+
+html body a {
+  width: -webkit-calc(50% - 2em);
+  width: calc(50% - 2em);
+}
